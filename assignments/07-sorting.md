@@ -11,7 +11,7 @@
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (**DONE**)
 - [Missing Number](https://leetcode.com/problems/missing-number/) (**DONE**)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -51,8 +51,8 @@
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (**DONE**)
+- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (**DONE**)
 
 ## Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
